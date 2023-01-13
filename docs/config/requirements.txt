@@ -1,0 +1,18 @@
+https://tutorcs.com
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+nbconvert
+jupyter-nbconvert
+jupyter_contrib_nbextensions
+mkdocs
+sphinx
+mkdocs-jupyter
+mknotebooks
+mkdocs-exclude
+mkdocs-git-revision-date-localized-plugin
+recommonmark
+sphinx-markdown-tables
+sphinx-typlog-theme
+mkdocs-rtd-dropdown
+mkdocs-material
